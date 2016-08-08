@@ -1,5 +1,3 @@
-# Assignment_4_Getting_and_cleaning_data
-
 Getting and Cleaning Data - Course Project
 
 This is the course project for the Getting and Cleaning Data Coursera course. The R script, Assignment_4.R, is divided in 5 sections:
