@@ -1,6 +1,6 @@
 #Getting and Cleaning Data - Course Project
 
-This is the course project for the Getting and Cleaning Data Coursera course. The R script, Assignment_4.R, is divided in 5 sections:
+This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, is divided in 5 sections:
 
  * Seperate Test User and Activity Data 
  * Clean Test mean and std 
